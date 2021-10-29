@@ -1,1 +1,2 @@
-# Crush-The-Zombie-Project
+# zombie-crush-2
+project solution for c30
